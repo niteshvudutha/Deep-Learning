@@ -1,2 +1,2 @@
 # Deep-Learning
-Academic assignements
+Academic assignments
